@@ -5,9 +5,14 @@ Check if new fingerprint has enrolled
 npm:
 `$ npm install react-native-biometrics-changed`
 
-__Example__
-  Use only after check if finger has enrolled!
+__Example__:
+
+## Use only after check if finger has enrolled!
+
 ```js
+import RNFingerprintChange from "react-native-biometrics-changed";
+
+
   useEffect(() => {
     RNFingerprintChange.hasFingerPrintChanged().then((biometricsHasChanged) => {
       if(biometricsHasChanged)
