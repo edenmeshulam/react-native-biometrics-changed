@@ -18,4 +18,5 @@ __Example__
   }, []);
  ```
 
-
+made with ❤ Eden Meshulam
+Pull requests are always welcome :)
