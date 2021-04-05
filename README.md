@@ -23,5 +23,8 @@ import RNFingerprintChange from "react-native-biometrics-changed";
   }, []);
  ```
 
+`Pull requests are always welcome :)`
+
+
 made with ❤ Eden Meshulam
-Pull requests are always welcome :)
+
