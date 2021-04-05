@@ -1,0 +1,12 @@
+{
+  "name": "BiometricsChanged",
+  "displayName": "BiometricsChanged",
+  "expo": {
+    "name": "BiometricsChanged",
+    "slug": "BiometricsChanged",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
