@@ -1,0 +1,23 @@
+{
+  "main": "index.js",
+  "private": false,
+  "name": "react-native-biometrics-changed",
+  "version": "1.1.6",
+  "description": "Check if new fingerprint has enrolled",
+  "keywords": [
+    "fingerprint",
+    "changed"
+  ],
+  "author": "Eden Meshulam",
+  "license": "ISC",
+
+  "peerDependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "~0.63.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edenmeshulam/react-native-biometrics-changed"
+  }
+}
