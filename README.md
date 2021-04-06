@@ -14,6 +14,8 @@ import RNFingerprintChange from "react-native-biometrics-changed";
 
 
   useEffect(() => {
+  //check if has enrolled fingerprints and if hardware support
+  // and after call this :
     RNFingerprintChange.hasFingerPrintChanged().then((biometricsHasChanged) => {
       if(biometricsHasChanged)
       {
