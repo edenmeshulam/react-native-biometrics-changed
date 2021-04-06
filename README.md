@@ -7,7 +7,7 @@ npm:
 
 __Example__:
 
-## Use only after check if finger has enrolled!
+ Use only after check if there is a finger enrolled!
 
 ```js
 import RNFingerprintChange from "react-native-biometrics-changed";
