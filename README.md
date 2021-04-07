@@ -7,13 +7,15 @@ npm:
 
 __Example__:
 
-## Use only after check if finger has enrolled!
+ Use only after check if there is a finger enrolled!
 
 ```js
 import RNFingerprintChange from "react-native-biometrics-changed";
 
 
   useEffect(() => {
+  //Check if there are registered fingerprints and if there is hardware support
+  // and after that call:
     RNFingerprintChange.hasFingerPrintChanged().then((biometricsHasChanged) => {
       if(biometricsHasChanged)
       {
