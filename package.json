@@ -2,7 +2,7 @@
   "main": "index.js",
   "private": false,
   "name": "react-native-biometrics-changed",
-  "version": "1.1.7",
+  "version": "1.1.9",
   "description": "Check if new fingerprint has enrolled",
   "keywords": [
     "fingerprint",
